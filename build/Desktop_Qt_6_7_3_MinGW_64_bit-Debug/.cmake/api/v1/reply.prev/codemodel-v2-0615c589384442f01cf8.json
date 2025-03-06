@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-359aa3d40b2b474d4a71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Q_employer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Q_employer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q_employer-Debug-d866774299a3b4f26689.json",
+					"name" : "Q_employer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q_employer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q_employer_autogen-Debug-f263a0b21df22b5fda40.json",
+					"name" : "Q_employer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q_employer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q_employer_autogen_timestamp_deps-Debug-f1bf417851f454a4c1ae.json",
+					"name" : "Q_employer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ilyes/OneDrive/Documents/Q_employer/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ilyes/OneDrive/Documents/Q_employer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

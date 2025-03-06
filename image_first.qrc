@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>menus.png</file>
+        <file>close.png</file>
+        <file>online-learning.png</file>
+        <file>table.png</file>
+    </qresource>
+</RCC>
